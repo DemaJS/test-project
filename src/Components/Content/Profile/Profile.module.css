@@ -1,0 +1,56 @@
+.back img {
+    width: 100%;
+    height: 300px;
+}
+.back span {
+    position: relative;
+    bottom: 150px;
+    left: 50px;
+    font-family: 'Audiowide', cursive;
+    color: gold;
+    font-size: 50px;
+}
+.ava img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    margin: 20px;
+}
+.posts textarea {
+    width: 600px;
+    background-color: rgba(179, 229, 230, 0.5);
+    font-size: 20px;
+}
+
+.posts {
+    padding-left: 50px;
+}
+.posts button {
+    background-color: #7a956b;
+    color: white;
+    width: 70px;
+}
+.ava {
+    padding-top: 20px;
+}
+.text {
+    font-size: 50px;
+    vertical-align: top;
+    text-align: center;
+    padding-left: 100px;
+    font-family: 'Audiowide', cursive;
+}
+.description {
+    color: #77608d;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+}
+.post {
+    padding: 40px 40px;
+}
+.posts button {
+    position: relative;
+    left: 535px;
+}

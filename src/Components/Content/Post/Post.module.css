@@ -1,0 +1,23 @@
+.item img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.post {
+    font-size: 20px;
+    vertical-align: top;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 35px;
+}
+.top {
+    margin-top: 20px;
+}
+.post img {
+    height: 25px;
+    width: 25px;
+}
+.post span {
+    position: relative;
+    left: 15px;
+}

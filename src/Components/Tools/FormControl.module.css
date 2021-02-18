@@ -1,0 +1,6 @@
+.error {
+    color: red;
+}
+.wrapper textarea {
+    border: 2px solid red;
+}

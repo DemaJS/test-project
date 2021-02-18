@@ -1,0 +1,8 @@
+.wrapper {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.loginError {
+    color: red;
+    font-size: large;
+}

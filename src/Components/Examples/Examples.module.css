@@ -1,0 +1,15 @@
+.style button {
+    background-color: #7a956b;
+    color: white;
+    width: 70px;
+    height: 20px;
+}
+.style textarea {
+    background-color: rgba(179, 229, 230, 0.5);
+    font-size: 20px;
+    width: 400px;
+}
+.style {
+    margin-top: 20px;
+    margin-left: 50px;
+}
